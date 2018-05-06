@@ -1,0 +1,21 @@
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\bin\Debug\CGAlgorithms.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\bin\Debug\CGAlgorithms.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\bin\Debug\CGUtilities.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\bin\Debug\CGUtilities.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGAlgorithms.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGAlgorithms.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGUtilities.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGUtilities.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.csprojResolveAssemblyReference.cache
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.csprojResolveAssemblyReference.cache
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGAlgorithms.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGAlgorithms.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGUtilities.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGUtilities.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.pdb

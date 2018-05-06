@@ -1,0 +1,21 @@
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\bin\Debug\CGUtilities.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\bin\Debug\CGUtilities.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilities.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilities.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.csprojResolveAssemblyReference.cache
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilities.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilities.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.csprojResolveAssemblyReference.cache
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.pdb

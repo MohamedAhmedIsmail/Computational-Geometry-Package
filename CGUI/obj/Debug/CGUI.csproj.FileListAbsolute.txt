@@ -1,0 +1,178 @@
+c:\users\muhammad abbady\documents\visual studio 2013\Projects\CGUI\CGUI\bin\Debug\CGUI.exe.config
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\MainWindow.baml
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\Styles.baml
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\App.baml
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\App.g.cs
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI.g.resources
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\bin\Debug\CGUI.exe
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\bin\Debug\CGUI.pdb
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI.exe
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI.pdb
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGUI.exe.config
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI.exe
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI.pdb
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGUI.exe
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGUI.pdb
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\App.baml
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\App.g.cs
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\MainWindow.baml
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI.g.resources
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGUtilities.dll
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGUI.exe.config
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGUI.exe
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGUI.pdb
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGUtilities.dll
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\App.baml
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\App.g.cs
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\MainWindow.baml
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI.g.resources
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI.exe
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI.pdb
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGUI.exe.config
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGUI.exe
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGUI.pdb
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGUtilities.dll
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\App.baml
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\App.g.cs
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\MainWindow.baml
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI.g.resources
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI.exe
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI.pdb
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGUI.exe.config
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI.exe
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI.pdb
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGUI.exe
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGUI.pdb
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGUtilities.dll
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\App.baml
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\App.g.cs
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\MainWindow.baml
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI.g.resources
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGUI.exe.config
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI.exe
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGUI.exe
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGUI.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGUtilities.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\App.baml
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\App.g.cs
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\MainWindow.baml
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI.g.resources
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUI.exe.config
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.exe
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUI.exe
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUI.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\bin\Debug\CGAlgorithms.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUtilities.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\bin\Debug\CGAlgorithms.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUtilities.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\Styles\UIStyles.baml
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\Styles\DrawingStyle.baml
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\Styles\ResultStyle.baml
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\App.baml
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\MainWindow.g.cs
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\App.g.cs
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\MainWindow.baml
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.g.resources
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUI.exe.config
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.exe
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUI.exe
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUI.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGAlgorithms.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUtilities.dll
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGAlgorithms.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUtilities.pdb
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\Styles\UIStyles.baml
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\Styles\DrawingStyle.baml
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\Styles\ResultStyle.baml
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\App.baml
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\MainWindow.g.cs
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\App.g.cs
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\MainWindow.baml
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.g.resources
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+D:\computer science\courses\year 4\semester 2\Computational Geometry\Labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
